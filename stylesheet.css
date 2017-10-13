@@ -1,15 +1,16 @@
 h4 { 
-	color: red; 
+	color: blue; 
 	background: aliceblue;
 	border: 3px double blue; 
 	border-radius: 10px;
 	text-align: center;
+	font-family: 'Share Tech Mono', monospace;
 	}
 	
-nav div {
-		text-align: center;
-		color: red;
-		
+nav div 
+	{
+	text-align: center;
+	color: red;
 	}	
 
 body {
@@ -37,11 +38,6 @@ th {
 	font-weight: bold;
 	}	
 	
-h6 {
-	
-		
-	}	
-
 nav table 
 	{
 	background: darkgray;
@@ -57,8 +53,21 @@ nav table td
 	color: lightgray;
 	}
 	
+span h4
+	{
+	color: navy;
+	}
 	
-.special {
+span div
+	{
+	color: lightblue;
+	text-align: left;
+	font-family: 'Share Tech Mono', monospace;
+	}
 	
+span anothertable
+	{
+	text-align: right;
+	background: gray;
 	
-}
+	}
