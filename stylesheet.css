@@ -1,0 +1,64 @@
+h4 { 
+	color: red; 
+	background: aliceblue;
+	border: 3px double blue; 
+	border-radius: 10px;
+	text-align: center;
+	}
+	
+nav div {
+		text-align: center;
+		color: red;
+		
+	}	
+
+body {
+	background: black;
+	color: deeppink;
+	font-size: 14pt; 
+	}
+	
+	
+table {
+	border: 1px solid red;
+	background: lightpink;
+	padding: 3px;
+	border-radius: 10px;
+	
+	}
+	
+a {
+	color: darkred;
+	text-decoration: none;
+	}
+	
+th {
+	color: darkred;
+	font-weight: bold;
+	}	
+	
+h6 {
+	
+		
+	}	
+
+nav table 
+	{
+	background: darkgray;
+	border: 1px solid black;
+	
+	}
+	
+nav table td
+	{
+	border: 1px solid black;
+	background: black;
+	width: 200px;
+	color: lightgray;
+	}
+	
+	
+.special {
+	
+	
+}
